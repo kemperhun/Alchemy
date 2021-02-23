@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ListItems xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Collection>
+    <Items edit_this="Hydrogen">
+      <object>0x0</object>
+    </Items>
+    <Items edit_this="Oxygen">
+      <object>0x1</object>
+    </Items>
+  </Collection>
+</ListItems>

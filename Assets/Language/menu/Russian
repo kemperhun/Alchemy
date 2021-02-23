@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<ListMenu xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TranslationsLang>
+    <Translation edit_this="Создать">
+      <object>Create button</object>
+    </Translation>
+    <Translation edit_this="Назад">
+      <object>Back button</object>
+    </Translation>
+    <Translation edit_this="Название">
+      <object>Saving test</object>
+    </Translation>
+    <Translation edit_this="Создать мир">
+      <object>Create new</object>
+    </Translation>
+    <Translation edit_this="Вы ещё не стали богом местного пошиба">
+      <object>Empty text</object>
+    </Translation>
+    <Translation edit_this="Новая игра">
+      <object>New game</object>
+    </Translation>
+    <Translation edit_this="Настройки">
+      <object>Setting</object>
+    </Translation>
+    <Translation edit_this="Назад">
+      <object>back to menu</object>
+    </Translation>
+    <Translation edit_this="Звуки">
+      <object>Sound</object>
+    </Translation>
+    <Translation edit_this="Музыка">
+      <object>Music</object>
+    </Translation>
+    <Translation edit_this="Назад">
+      <object>Setting back panel</object>
+    </Translation>
+    <Translation edit_this="Выберите файл локализации">
+      <object>Language File</object>
+    </Translation>
+    <Translation edit_this="Время в игре: ">
+      <object>total time</object>
+    </Translation>
+    <Translation edit_this="дальность отрисовки(2-32) ">
+      <object>Load Distance</object>
+    </Translation>
+    <Translation edit_this="Поколение: ">
+      <object>Generation</object>
+    </Translation>
+  </TranslationsLang>
+</ListMenu>

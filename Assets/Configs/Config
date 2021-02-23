@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Config xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Language>English</Language>
+  <Sound_Volume>0</Sound_Volume>
+  <Music_Volume>0</Music_Volume>
+  <LoadDistance>7</LoadDistance>
+</Config>

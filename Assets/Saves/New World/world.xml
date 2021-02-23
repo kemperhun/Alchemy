@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<WorldSave xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Save_x0020_Name>New World</Save_x0020_Name>
+  <Generation_Gome>1</Generation_Gome>
+  <PlayerPos>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </PlayerPos>
+  <LevelSeed>-436261625</LevelSeed>
+</WorldSave>
